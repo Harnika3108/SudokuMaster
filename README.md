@@ -18,4 +18,4 @@ The core logic is found in two functions:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Honey3108/SudokuMaster.git
+   git clone https://github.com/Harnika3108/SudokuMaster.git
